@@ -8,8 +8,8 @@ import { createTheme } from '@mui/material';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 const theme = createTheme({
   palette: {
-    whiteblue:{
-      main:'#86A8CF'
+    white: {
+      main: '#FFFFFF'
     }
   }
 })
